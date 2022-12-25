@@ -1,1 +1,2 @@
 hello from mygogo.txt file
+added some changes
